@@ -2,7 +2,7 @@
     xmlns="http://www.w3.org/2000/svg">
     <defs>
         <linearGradient id="shape-gradient-Square" gradientTransform="rotate(90)">
-            <stop offset="0%" stop-color="rgba(255, 67, 78, 0.18)"></stop>
+            <stop offset="0%" stop-color="rgba(237, 172, 135, 0.18)"></stop>
         </linearGradient>
     </defs>
     <defs>
@@ -18,7 +18,7 @@
     </g>
     <defs>
         <linearGradient id="icon-gradient-0" gradientTransform="rotate(0)">
-            <stop offset="0%" stop-color="rgba(255, 67, 78, 0.99)"></stop>
+            <stop offset="0%" stop-color="rgba(237, 172, 135, 0.99)"></stop>
         </linearGradient>
     </defs>
     <g fill="url(#icon-gradient-0)" stroke="#FFFFFF" stroke-linejoin="round" stroke-width="0" style="transform-origin: 85px 73.0785px; transform: translateX(42.5px) translateY(54px) scale(0.9) rotate(0deg);" filter="false" transform-origin="85.00000011920929px 73.07849884033209px">
